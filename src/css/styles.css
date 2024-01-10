@@ -33,9 +33,11 @@ body {
   object-fit: cover;
   border-radius: 5px;
   cursor: pointer;
+  /* Видаліть або залиште ці стилі на ваш розсуд */
   transition: transform 0.3s ease-in-out;
 }
 
+/* Видаліть або залиште цей блок стилів на ваш розсуд */
 .gallery-image:hover {
   transform: scale(1.1);
 }
