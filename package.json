@@ -13,7 +13,7 @@
     "vite": "^4.0.5"
   },
   "dependencies": {
-    "simplelightbox": "^2.14.2",
+    "simplelightbox": "^2.7.0",
     "vite-plugin-html-inject": "^1.0.4"
   }
 }
